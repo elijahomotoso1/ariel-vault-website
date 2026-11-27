@@ -1,4 +1,4 @@
-ARIEL VAULT — STATIC WEBSITE EXPORT
+AERIE VAULT — STATIC WEBSITE EXPORT
 
 Includes index.html and the navy/blue logo. CSS and JavaScript are included in index.html. No build, dependencies, database or server code is required.
 
